@@ -1,6 +1,6 @@
 {
   "build": {
-    "builder": "Dockerfile"
+    "builder": "DOCTYPE"
   },
   "deploy": {
     "startCommand": "catalina.sh run",
